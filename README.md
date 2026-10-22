@@ -15,7 +15,7 @@ Hendrickson, K., Yee, F., Prabhu, A., Sheppard, R., Hazen, R. M., Rampe, E. B., 
 
 "Martian_MAA_Leave_One_Mineral_Out.R" removes one input mineral at a time to see how well the model currently validates internal phases. These validations can be used to support the existence of phases, document model bias (i.e., towards hydrated phases), and understand in what ways CheMin samples on Mars deviate from trends expected on Earth (minerals that are not internally validated are not consistently in assemblages with the same minerals in our reference dataset.)
 
-"mars_export.csv" is the processed input dataset from CheMin as indicated in Table 2 of Hendrickson et al. (2026) in review.
+"mars_export.csv" is the IMA-processed input dataset from CheMin as indicated in Table 2 of Hendrickson et al. (2026) in review.
 
 "All_Predictions_Output_Sheet.xlsx" is a file of all matching association rules from “Allmin_USA_localities_subset_cleaned.rds” that can be used as predictions, saved as printed lines while the code was executing. For machine-readable summaries and interpretations of these outputs, see Hendrickson et al. (2026) in review.
 
